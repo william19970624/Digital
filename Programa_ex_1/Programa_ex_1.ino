@@ -34,7 +34,7 @@ void setup() {
 
 //****** Loop ************************************************************
 void loop() {
-digitalWrite(L1, HIGH); //Tots els Led's funcionant :)
+digitalWrite(L1, HIGH); //Tots els Led's funcionant 
 digitalWrite(L2, HIGH);
 digitalWrite(L3, HIGH);
 digitalWrite(L4, HIGH);
@@ -44,7 +44,7 @@ digitalWrite(L7, HIGH);
 digitalWrite(L8, HIGH);
   delay(650); //Velocitat d'espera a la següent operació
 
-digitalWrite(L1, LOW); // Tots els Led's apagats :(
+digitalWrite(L1, LOW); // Tots els Led's apagats 
 digitalWrite(L2, LOW);
 digitalWrite(L3, LOW);
 digitalWrite(L4, LOW);
